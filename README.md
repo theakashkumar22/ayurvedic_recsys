@@ -1,7 +1,6 @@
 # 🌿 Ayurvedic Recommendation System
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 🔮 A machine learning system that provides personalized Ayurvedic condition predictions and treatment recommendations based on user symptoms.
 
@@ -43,13 +42,9 @@
 
 ```
 ├── ayurvedic_recsys.ipynb    # 📓 Main notebook with complete system
-├── requirements.txt          # 📋 Dependencies
 └── README.md                 # 📖 This file
 ```
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
